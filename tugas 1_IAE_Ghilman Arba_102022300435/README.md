@@ -4,6 +4,8 @@ Ghilman arba 102022300435
 Naufal dzaki Akhdani Mohy 102022300381
 Cipta Fadhil Alfawwaz 102022300250
 Dwi Kurniawan 102022300183
+https://github.com/Ghilmanarba/Integrasi-Aplikasi-Enterprise-Ghilman.git
+https://drive.google.com/drive/folders/1POLl1gENAW1hmSrKhv6_p-oT8_9MeIBk?usp=sharing
 ## 1. Setup Environment & Menjalankan Server
 ```bash
 pip install Flask PyJWT python-dotenv
