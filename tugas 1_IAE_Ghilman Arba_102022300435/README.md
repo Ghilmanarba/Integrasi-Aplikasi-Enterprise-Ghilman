@@ -1,5 +1,9 @@
 # Aplikasi Flask dengan JWT
-
+Kelompok 
+Ghilman arba 102022300435
+Naufal dzaki Akhdani Mohy 102022300381
+Cipta Fadhil Alfawwaz 102022300250
+Dwi Kurniawan 102022300183
 ## 1. Setup Environment & Menjalankan Server
 ```bash
 pip install Flask PyJWT python-dotenv
